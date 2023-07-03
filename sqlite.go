@@ -8,7 +8,7 @@ import (
 
 	"github.com/wang-xuemin/gorm/callbacks"
 
-	_ "github.com.com/mattn/go-sqlite3"
+	_ "github.com/mattn/go-sqlite3"
 	"github.com/wang-xuemin/gorm"
 	"github.com/wang-xuemin/gorm/clause"
 	"github.com/wang-xuemin/gorm/logger"
