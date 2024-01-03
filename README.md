@@ -12,7 +12,7 @@ import (
   "github.com/wang-xuemin/gorm"
 )
 
-// github.com.com/mattn/go-sqlite3
+// update github.com.com/mattn/go-sqlite3 to modernc.org/sqlite
 db, err := gorm.Open(sqlite.Open("gorm.db"), &gorm.Config{})
 ```
 
